@@ -1,6 +1,3 @@
-Here’s a detailed GitHub README file for your **ModernClocks** Rainmeter skin, designed to be stylish with a blur effect. You can adjust it as needed, but this template will provide a good foundation.
-
----
 
 # ModernClocks - A Stylish Rainmeter Clock with Blur Effect
 
@@ -38,7 +35,7 @@ To use ModernClocks, you must have **Rainmeter** installed on your computer. Rai
    - If you don’t already have Rainmeter installed, download it from the official website: [Rainmeter.net](https://www.rainmeter.net/).
 
 2. **Clone or Download ModernClocks**:
-   - You can download the skin files from the [ModernClocks GitHub repository](https://github.com/YourUsername/ModernClocks).
+   - You can download the skin files from the [ModernClocks GitHub repository](https://github.com/official-nstechfix/ModernClocks/releases/tag/ModernClocks).
    - Either clone the repository using Git:
      ```bash
      git clone https://github.com/official-nstechfix/ModernClocks.git
