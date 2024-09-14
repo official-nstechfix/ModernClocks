@@ -6,7 +6,7 @@ Here’s a detailed GitHub README file for your **ModernClocks** Rainmeter skin,
 
 **ModernClocks** is a modern, minimalistic Rainmeter skin that adds a sleek digital clock to your desktop with a blur effect. Its clean design and customizable options allow it to fit perfectly into any desktop theme. ModernClocks uses a stylish font, elegant layout, and real-time blur effects to create a subtle yet visually appealing clock that enhances the aesthetics of your desktop.
 
-![Preview](https://via.placeholder.com/800x400.png?text=ModernClocks+Preview)
+![Preview](https://github.com/official-nstechfix/Projects-Templates/blob/main/RainmeterSkins/ModernClocks/Screenshot%20(92).png)
 
 ---
 
@@ -24,7 +24,7 @@ Here’s a detailed GitHub README file for your **ModernClocks** Rainmeter skin,
 
 Here’s how ModernClocks will look on your desktop. The background is blurred dynamically, making the clock stand out without overpowering your wallpaper.
 
-![Blur Clock](https://via.placeholder.com/800x400.png?text=ModernClocks+in+action)
+![Blur Clock](https://github.com/official-nstechfix/Projects-Templates/blob/main/RainmeterSkins/ModernClocks/Screenshot%20(92).png)
 
 ---
 
