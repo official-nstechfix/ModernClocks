@@ -41,7 +41,7 @@ To use ModernClocks, you must have **Rainmeter** installed on your computer. Rai
    - You can download the skin files from the [ModernClocks GitHub repository](https://github.com/YourUsername/ModernClocks).
    - Either clone the repository using Git:
      ```bash
-     git clone https://github.com/YourUsername/ModernClocks.git
+     git clone https://github.com/official-nstechfix/ModernClocks.git
      ```
    - Or download the ZIP file and extract it manually.
 
