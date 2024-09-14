@@ -166,7 +166,7 @@ We welcome contributions to ModernClocks! Whether you want to improve the design
 
 ModernClocks is licensed under the MIT License, meaning you are free to use, modify, and distribute this skin, provided that attribution is given to the original author.
 
-See the [LICENSE](LICENSE) file for more details.
+See the [LICENSE](https://github.com/official-nstechfix/ModernClocks/blob/main/LISENCE.md) file for more details.
 
 ---
 
