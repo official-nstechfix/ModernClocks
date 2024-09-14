@@ -169,6 +169,4 @@ See the [LICENSE](https://github.com/official-nstechfix/ModernClocks/blob/main/L
 
 With **ModernClocks**, you can transform your desktop into a beautiful and functional space that not only tells the time but also enhances the overall design of your workspace. Enjoy customizing it to your liking!
 
---- 
 
-This README gives users detailed instructions on how to install, use, and customize the **ModernClocks** Rainmeter skin, while also inviting contributions and acknowledging key resources. You can add images, links, and more details as needed.
